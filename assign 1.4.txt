@@ -1,0 +1,51 @@
+assignment 1.4
+
+1) characteristics of Big data in detail
+
+they are 
+1)volume - the quantity of data that is generated is very important.
+           size of data determines the value and potential of data under consideration
+           it referes to size of heterogeneous context
+
+
+2)variety - big data belongs to is also a very essential fact that needs to be known by analysts
+            this helps in analysing data and its associates 
+
+
+3)velocity - it refers to speed of generation of data or how fast data is generated and processed to meet demands
+             which lies in path of growth and development
+
+4)value - having access to big data is no good unless we can turn it into value
+          companies are starting to generate amazing value from their big data 
+
+5)veracity - refers to the messiness or trustworthiness of data 
+             with many forms of big data,quality and accuracy are less controllable
+
+data comes in two forms
+
+1)structured and 
+2)unstructured data
+
+=================================================================
+
+2) possible solutions to handle Big data
+
+
+the possible solutions to big data are
+1)Hadoop
+2)Oracle
+3)Cassandra
+4)Teradata
+
+
+
+
+=================================================================
+
+3)differences between scaling up and scaling out
+
+Scaling up generally refers to purchasing and installing a more capable central control or piece of hardware
+ a scaling up approach would be to buy a more capable server with more processing capacity and RAM
+
+scaling out means linking together other lower-performance machines to collectively do the work of a much more advanced one
+it's easy to handle a larger workload by running data through different system trajectories
